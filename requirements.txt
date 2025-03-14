@@ -1,0 +1,6 @@
+python-dotenv
+agno-ai
+openai
+duckduckgo-search
+uvicorn
+fastapi
